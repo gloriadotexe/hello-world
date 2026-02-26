@@ -1,0 +1,19 @@
+# Sensitive files
+*.key
+*.secret
+*password*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# The usual suspects
+node_modules/
+.env
